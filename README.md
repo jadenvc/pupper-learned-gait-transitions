@@ -2,6 +2,7 @@
 We explore learning-based strategies to teach an open source quadruped to deploy different gaits when running at different velocities
 
 See the code we used to for simulation/learning with pupper: https://github.com/jadenvc/puppersim
+
 See our changes to bullet3: https://github.com/jadenvc/bullet3
 
 Fall 2021 Project Documentation
